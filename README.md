@@ -8,7 +8,7 @@
 * [Link URL of deployed app to Heroku](#link-URL-of-deployed-app-to-Heroku)
 
 ## **_Description of the project_**
-This project is a full-stack application using Model-View-Controller (MVC) paradigm and is deployed on Heroku. It is a blog website where users can post information about their dream pizza, their favorite toppings, comment and answer to each other.
+This project is a full-stack application using Model-View-Controller (MVC) paradigm and is deployed on Heroku. It is a blog website where users can post information about their dream pizza, their favorite toppings, comment and answer to each other. Users can create, read, update and delete data about their pizza in the database.
 
 Users can login safely into their account via username and protected password.
 
