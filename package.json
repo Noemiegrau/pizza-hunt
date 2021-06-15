@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+    "idb": "^6.1.2",
     "mongoose": "^5.12.13"
   },
   "repository": {

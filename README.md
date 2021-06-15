@@ -3,6 +3,7 @@
 ## **_Table of contents_**
 * [Description of the project](#description-of-the-project)
 * [Technologies used](#technologies-used)
+* [Usage](#Usage)
 * [Installation](#installation)
 * [Link URL to GitHub Repository](#link-URL-to-GitHub-repository)
 * [Link URL of deployed app to Heroku](#link-URL-of-deployed-app-to-Heroku)
@@ -22,6 +23,10 @@ Project is created using:
 * Handlebarsjs
 * Heroku
 * dotenv
+
+## **_Usage_**
+![Screen Shot 2021-06-15 at 4 05 56 PM](https://user-images.githubusercontent.com/78329298/122134517-9a099b80-cdf3-11eb-80ed-8fb5b486ae65.png)
+
 
 ## **_Installation_**
 Here are some guidelines for installing the project on your local machine in order to be able to try it: 
