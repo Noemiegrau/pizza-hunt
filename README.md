@@ -43,3 +43,4 @@ Here are some guidelines for installing the project on your local machine in ord
 https://github.com/Noemiegrau/pizza-hunt
 
 ## **_Link URL of deployed app to Heroku_**
+https://thawing-garden-13240.herokuapp.com/
